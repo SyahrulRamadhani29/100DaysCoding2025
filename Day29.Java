@@ -15,7 +15,7 @@ public class Java1 {
         int c = in.nextInt();
         System.out.print("nilai d :");
         int d = in.nextInt();
-        System.out.println("hasil perbandingan nilai c lebih dari dari nilai d "+(c < d) );
+        System.out.println("hasil perbandingan nilai c lebih kecil dari nilai d "+(c < d) );
 
     }
 }
