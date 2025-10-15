@@ -14,7 +14,7 @@ public class Java1 {
         }else if (angka<=-1){
             System.out.println("angka "+angka+" adalah bilangan negatif ");
         }else{
-            System.out.println("angka "+angka+" adalah bilangan 0 ");
+            System.out.println("angka "+angka+" adalah bilangan netral ");
         }
     }
     
