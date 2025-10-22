@@ -29,6 +29,7 @@ public class Java1 {
                 break;
             default :
                 System.err.println("hp kamu jenis apa nihh kok ga ada di pilihan");
+                break;
         }
     }
     
