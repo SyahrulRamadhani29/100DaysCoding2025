@@ -6,7 +6,7 @@ public class Java1 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        //day 59
+        //day 59 mencetak angka genap dan ganjil 1-N
         System.out.print("Masukkan angka N :");
         int angka = in.nextInt();
         int a = 0, b = 0;
@@ -16,7 +16,7 @@ public class Java1 {
                 System.out.print(i+",");
             }
         }
-        System.out.print("\nangka genap :");
+        System.out.print("\nangka ganjil :");
         for (int j = 0; j <= angka; j++) {
             if (j % 2 != 0) {
                 System.out.print(j+",");
