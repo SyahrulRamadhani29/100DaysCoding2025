@@ -15,6 +15,6 @@ public class Java1 {
         for (int i = 1; i <= N; i++) {
             total*=M;
         }
-        System.out.println(total);
+         System.out.println("Hasil dari "+M+" pangkat "+N+"adalah "+total);
     }
 }
