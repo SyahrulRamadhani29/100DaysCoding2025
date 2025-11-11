@@ -15,6 +15,6 @@ public class Java1 {
             total*=i;
         }
         System.out.println(N+a);
-        System.out.println("Hasil Faktorial dari "+N+" adalah "+total);
+        System.out.println("Hasil Faktorial dari "+N+a+" adalah "+total);
     }
 }
