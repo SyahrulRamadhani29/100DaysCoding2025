@@ -14,7 +14,7 @@ public class Java1 {
         }
         System.out.print("isi array :");
         for(String a : arr){
-            System.out.print(a);
+            System.out.print(a+",");
         }
         in.close();
     }
