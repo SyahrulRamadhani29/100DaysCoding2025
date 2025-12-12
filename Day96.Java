@@ -11,8 +11,8 @@ public class voidJava {
         int b=in.nextInt();
         System.out.println("Penjulahan: "+arit(a,b));
         System.out.println("Pengurangan : "+arit1(a,b));
-        System.out.println("bacot aihh : "+ac(a,b));
-        System.out.println("bajingan bangsat : "+de(a,b));
+        System.out.println("perkalian : "+ac(a,b));
+        System.out.println("pembagian : "+de(a,b));
     }
     static int arit(int a,int aa){
        return a+aa;   
